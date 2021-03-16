@@ -32,12 +32,12 @@ public class HelloWorld extends HttpServlet{
  *       ****/
 
   pw.println("<html>");
-  pw.println("<head><title>Hello World</title></head>");
+  pw.println("<head><title>Join the Dark Side</title></head>");
 
 /* Choose a backgroundcolor The 17 standard colors are: aqua, black, blue, fuchsia, gray, green, lime, maroon, navy, olive, orange, purple, red, silver, teal, white, and yellow.
  * ******/
 
-  pw.println("<body bgcolor='red'>");
+  pw.println("<body bgcolor='yellow'>");
 
 /* Display the version of the servlet that has been deployed from a file*/
 
